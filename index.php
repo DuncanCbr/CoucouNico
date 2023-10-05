@@ -8,7 +8,7 @@
 <body>
     <?php
         require("task01.php");
-        $menu == display_menu();
+        $menu = display_menu();
         echo $menu;
     ?>
 </body>
